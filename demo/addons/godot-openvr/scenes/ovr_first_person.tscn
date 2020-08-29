@@ -1,6 +1,6 @@
 [gd_scene load_steps=5 format=2]
 
-[ext_resource path="res://addons/godot-openvr/scenes/ovr_shader_cache.tscn" type="PackedScene" id=1]
+[ext_resource path="res://addons/godot-xr-tools/misc/VR_Common_Shader_Cache.tscn" type="PackedScene" id=1]
 [ext_resource path="res://addons/godot-openvr/scenes/ovr_controller.tscn" type="PackedScene" id=2]
 [ext_resource path="res://addons/godot-openvr/scenes/ovr_main.gd" type="Script" id=3]
 
